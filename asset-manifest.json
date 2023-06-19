@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CArteProductos/static/css/main.9157fe5b.css",
-    "main.js": "/CArteProductos/static/js/main.5d454d53.js",
+    "main.js": "/CArteProductos/static/js/main.807d1545.js",
     "static/media/background azul oscuro.mp4": "/CArteProductos/static/media/background azul oscuro.d4cd0b1eba706ed77913.mp4",
     "static/media/pocillos magicos.jpg": "/CArteProductos/static/media/pocillos magicos.08e096b9bdcfb8dca02c.jpg",
     "static/media/pocillo mama.jpg": "/CArteProductos/static/media/pocillo mama.0f5d6f45550c1061d00c.jpg",
@@ -9,10 +9,10 @@
     "static/media/gorra estampada.jpg": "/CArteProductos/static/media/gorra estampada.0d3b3e4102c09ca303ee.jpg",
     "index.html": "/CArteProductos/index.html",
     "main.9157fe5b.css.map": "/CArteProductos/static/css/main.9157fe5b.css.map",
-    "main.5d454d53.js.map": "/CArteProductos/static/js/main.5d454d53.js.map"
+    "main.807d1545.js.map": "/CArteProductos/static/js/main.807d1545.js.map"
   },
   "entrypoints": [
     "static/css/main.9157fe5b.css",
-    "static/js/main.5d454d53.js"
+    "static/js/main.807d1545.js"
   ]
 }
