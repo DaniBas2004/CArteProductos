@@ -1,0 +1,53 @@
+.container{
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+.contenedorpadre{
+    padding-bottom: 8%;
+    
+}
+.card:hover{
+    box-shadow: 5px 10px 20px 1px rgb(255, 255, 255)    !important;
+    transition: all 0.4s linear;
+}
+.card-body{
+    padding: 2rem 0 !important;
+    height: 250px;
+    background-color: rgb(253, 253, 253);
+}
+.card-text{
+    padding: 0.3rem 1rem;
+    font-size: 1rem;
+}
+.overflow{
+    overflow: hidden;
+}
+
+.card-img-top{
+    transition: all 0.2s ease-in-out;
+    height: 280px;
+}
+.card-img-top:hover{
+    transform: scale(1.3);
+}
+
+@media screen and (max-width: 800px) {
+    .card{
+        height: 50%;
+    }
+    .card-body{
+        padding: 2rem 0 !important;
+        height: 50%;
+    }
+    .card-text{
+        padding: 0.3rem 1rem;
+        font-size: 1rem;
+    }
+    .card-img-top{
+        transition: all 0.2s ease-in-out;
+        height: 50%;
+    }
+
+
+
+}
