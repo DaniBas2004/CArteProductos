@@ -14,28 +14,28 @@ const cards =[
         id: 1,
         title:"Playera con Estampado",
         image: image1,
-        url:"https://wa.me/573228962152?text=Me interesa la Playera con estampado , me puedes dar mas informacion?",
+        url:"https://wa.me/573228962150?text=Me interesa la Playera con estampado , me puedes dar mas informacion?",
         text:"Playera sencilla (variedad de telas) con estampado diseñado por el cliente"
     },
     {
         id: 2,
         title:"Gorra con Estampado",
         image: image2,
-        url:"https://wa.me/573228962152?text=Me interesa la Gorra con estampado , me puedes dar mas informacion?",
+        url:"https://wa.me/573228962150?text=Me interesa la Gorra con estampado , me puedes dar mas informacion?",
         text:"Gorra sencilla con estampado diseñado por el cliente "
     },
     {
         id: 3,
         title:"Mug/Taza Sencilla con Estampado",
         image: image3,
-        url:"https://wa.me/573228962152?text=Me interesa la taza con estampado , me puedes dar mas informacion?",
+        url:"https://wa.me/573228962150?text=Me interesa la taza con estampado , me puedes dar mas informacion?",
         text:"Mug/Taza sencilla con estampado diseñado por el cliente"
     },
     {
         id: 4,
         title:"Mug/Taza Magica con Estampado",
         image: image4,
-        url:"https://wa.me/573228962152?text=Me interesa la Taza Magica con estampado , me puedes dar mas informacion?",
+        url:"https://wa.me/573228962150?text=Me interesa la Taza Magica con estampado , me puedes dar mas informacion?",
         text:"Mug/Taza que cambia de color con la temperatura, con estampado diseñado por el cliente"
     },
     
